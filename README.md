@@ -1,2 +1,2 @@
-# Python_
+# Python
 All my practice notebooks
